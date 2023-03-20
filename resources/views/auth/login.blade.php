@@ -8,7 +8,7 @@
 
 
             <div class="mt-10 bg-blue-200 px-6 py-4 rounded-lg shadow-lg ">
-                <p class="font-bold">Ege Sedef Aydınlatma Ürün Barkod Sistemi</p>
+                <p class="font-bold">Ege Sedef Aydınlatma Ürün Barkod Sistemiii</p>
             </div>
 
         </x-slot>
